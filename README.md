@@ -28,11 +28,13 @@
 	- [Demo：WCF中应如何使用DTC](https://docs.microsoft.com/en-us/dotnet/framework/wcf/samples/ws-transaction-flow)
 	- Demo：WCF中DTC问题的Debug步骤
 - STA,MTA线程之间的区别，使用场景？
-	- [STA/MTA的原理]()
+	- STA/MTA的原理
+		- [Understanding and Using COM Threading Models](https://msdn.microsoft.com/en-us/library/ms809971.aspx)
+		- [What are these “Threading Models” and why do I care?](https://blogs.msdn.microsoft.com/larryosterman/2004/04/28/what-are-these-threading-models-and-why-do-i-care/)
 	- Demo：STA/MTA的应用场景
 	- RealCase：STA/MTA在真实场景中遇到的问题
 - UI线程内部消息循环与Dispatcher.BeginInvoke调用原理
-	- [.NET消息机制的原理]()
+	- [.NET消息机制的原理](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/threading-model)
 	- Demo：Windbg呈现消息机制的运作过程
 	- RealCase：WinForm偶发性Hang住问题
 
