@@ -1,7 +1,7 @@
 ## 需要预先准备的环境和可以预先了解的工具
 - Windbg调试环境
 	- [安装](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
-	- [配置](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/symbol-path)
+	- [配置Symbol](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/symbol-path)
 	- [入门文档](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg)
 	- [进阶文档](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugging-using-windbg)
 - 自动化Dump分析工具`DebugDiag`
