@@ -2,6 +2,9 @@
 - Windbg调试环境
 	- [安装](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
 	- [配置Symbol](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/symbol-path)
+	- Extension
+		- [Mex](https://www.microsoft.com/en-us/download/details.aspx?id=53304)
+		- [Pykd](https://github.com/wu-wenxiang/Tool-Windbg-Pykd-Scripts)
 	- [入门文档](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg)
 	- [进阶文档](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugging-using-windbg)
 - 自动化Dump分析工具`DebugDiag`
@@ -12,7 +15,11 @@
 - Sysinternals工具集
 	- [安装](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 	- [使用文档](https://docs.microsoft.com/en-us/sysinternals/learn/troubleshooting-book)
+	- [功能简介](http://blog.wuwenxiang.net/Windows-Sysinternals)
 - .NET版本：4.5.2+
+
+## Demo资料
+- 链接：[https://share.weiyun.com/5hHlmMZ](https://share.weiyun.com/5hHlmMZ)
 
 ## 内容安排
 - .Net垃圾回收性能调优
