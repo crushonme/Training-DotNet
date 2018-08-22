@@ -47,19 +47,21 @@
 
 ## 时间安排
 - 8/22上午
+	- Windbg和工具集基础
+	- 内存原理
+- 8/22下午
 	- .NET GC原理介绍
 	- Server Mode和Workstation Mode的区别及适用场景
 	- .NET GC问题排查步骤
-- 8/22下午
 	- GCHeap内存泄露问题排查
 	- GC过频导致CPU冲高问题排查
+- 8/23上午
 	- DTC原理和应用场景
 	- WCF中应如何使用DTC
-- 8/23上午
 	- WCF中DTC问题的Debug步骤
+- 8/23下午
 	- STA/MTA的原理
 	- STA/MTA的应用场景
-- 8/23下午
 	- STA/MTA在真实场景中遇到的问题
 	- .NET消息机制的原理
 	- Demo：Windbg呈现消息机制的运作过程
