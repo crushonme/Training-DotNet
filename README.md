@@ -40,6 +40,7 @@
 		- The only time that DTC needs to be used is when **more than one physical computer** is going to be involved in a distributed transaction. If you are going from one instance to another on the same server DTC will not be needed. If you are going from one instance to another within a cluster you will want to have DTC available as you may have to go between nodes of the cluster as you have no guarantee that the instances will be on the same physical node.
 	- [Implementing an Implicit Transaction using Transaction Scope](https://docs.microsoft.com/en-us/dotnet/framework/data/transactions/implementing-an-implicit-transaction-using-transaction-scope)
 	- [Implementing an Explicit Transaction using CommittableTransaction](https://docs.microsoft.com/en-us/dotnet/framework/data/transactions/implementing-an-explicit-transaction-using-committabletransaction)
+	- [Transaction Promotion](https://docs.microsoft.com/en-us/sql/relational-databases/clr-integration-data-access-transactions/transaction-promotion?view=sql-server-2017)
 	- [Demo：WCF中应如何使用DTC](https://docs.microsoft.com/en-us/dotnet/framework/wcf/samples/ws-transaction-flow)
 	- Demo：WCF中DTC问题的Debug步骤
 - STA,MTA线程之间的区别，使用场景？
